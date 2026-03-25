@@ -26,6 +26,10 @@ To determine the minimum number of units a business must sell to cover all its c
 
 * Microsoft Excel
 
+## 📸 Dashboard Preview
+
+![Dashboard](break-even-analysis.PNG)
+
  📈 How It Works
 
 1. Enter Fixed Cost, Variable Cost per Unit, and Selling Price
